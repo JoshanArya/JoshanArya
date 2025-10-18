@@ -20,7 +20,7 @@
 - 🔭 Currently working on personal web tools & Lua automation scripts  
 - 🌱 Always exploring the synergy between front-end logic and back-end data  
 - 💬 Ask me about **Web Design**, **Lua scripting**, or **SQL queries**  
-- ⚡ Fun fact: My code looks better in the dark 😎  
+- ⚡ Fun fact: My code looks better in the dark   
 
 ---
 
