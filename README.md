@@ -1,5 +1,3 @@
-<!-- Futuristic Clean GitHub Profile README by ChatGPT -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/JoshanArya/JoshanArya/main/avatar.png" alt="Joshan Arya Avatar" width="200" style="border-radius: 50%; box-shadow: 0 0 20px #0ff;">
 </p>
