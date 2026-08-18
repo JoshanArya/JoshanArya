@@ -39,18 +39,10 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 1.2rem;" >
-  <img
-    src="https://streak-stats.demolab.com?user=JoshanArya&locale=en&mode=weekly&theme=aura&hide_border=false&border_radius=10"
-    alt="GitHub Streak"
-    style="height: 100%; "
-  />
-   <!-- <img
-    height="180em"
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JoshanArya&layout=compact&theme=aura&border_radius=10"
-    alt="Top Languages"
-  /> -->
-</p>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=JoshanArya&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" height="165" />
+</a>
+
 
 ---
 
@@ -59,7 +51,7 @@
 ###
 
 <div align="left">
-  <a href="https://joshanarya.online/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Personal Website&logo=&label=&color=5B8DFF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Personal Website logo"  />
+  <a href="https://joshanarya.online/" target="_blank" rel="noopener noreferrer">
+    <img src="logo.webp" height="40" width="auto" alt="Personal Website logo" />
   </a>
 </div>
