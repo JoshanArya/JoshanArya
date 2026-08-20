@@ -22,7 +22,7 @@
 
 <h4 align="left">Front End : </h4>
 <div align="left">
- <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,python,tailwind,vite" />
 </div>
 
 <h4 align="left">Back End : </h4>
